@@ -7,3 +7,4 @@ uploaded F0_main.py
 uploaded F1_BackTest.py
 uploaded Init_Tick.py
 uploaded Init_Tick2.py	
+uploaded F1_MY_CAP.py
